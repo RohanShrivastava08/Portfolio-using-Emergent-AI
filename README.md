@@ -1,6 +1,14 @@
 # 🧠 Portfolio website using Emergent
 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/fc1901c1-130d-4401-8375-1521bda8e21d" />
 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9eeef455-57d6-41a0-80ea-d81e037e02ef" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/cad6561c-9d5f-458d-89b1-f837732fbc08" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/43dec81c-52fd-441b-97d1-9cdf28b577ab" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/f15178e6-d27c-4517-847f-94c8d51c4b02" />
 
 - A modern and AI-powered personal portfolio generated with Emergent AI.
 
