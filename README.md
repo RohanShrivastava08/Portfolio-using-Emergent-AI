@@ -1,16 +1,15 @@
 # 🧠 Portfolio website using Emergent
 
+- A modern and AI-powered personal portfolio generated with Emergent AI.
+
+- Showcases projects, experience, and skills with minimal setup.
+
+
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/fc1901c1-130d-4401-8375-1521bda8e21d" />
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9eeef455-57d6-41a0-80ea-d81e037e02ef" />
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/cad6561c-9d5f-458d-89b1-f837732fbc08" />
-
-
-- A modern and AI-powered personal portfolio generated with Emergent AI.
-
-- Showcases projects, experience, and skills with minimal setup.
-
 
 ## 📋 Table of Contents
 - Introduction
